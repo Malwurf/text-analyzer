@@ -1,0 +1,29 @@
+O języku Ruby
+Zastanawiasz się dlaczego Ruby jest tak popularny? Jego fani nazywają go pięknym, pełnym sztuki językiem. Mimo to, twierdzą, że jest poręczny i praktyczny. O co chodzi ?
+
+Ideały twórcy języka Ruby
+Ruby jest językiem starannie dobranej równowagi. Jego twórca, Yukihiro “Matz” Matsumoto, połączył części jego ulubionych języków (Perla, Smalltalka, Eiffel, Ady i Lispa) by uformować nowy język, który zbalansował programowanie funkcjonalne wraz z programowanie imperatywnym.
+
+Matz często mówi, że chce uczynić ten język naturalnym – nie prostym – w sposób odzwierciedlający życie.
+
+Bazując na tym dodaje:
+
+Ruby jest prosty z wyglądu, ale bardzo skomplikowany w środku, tak jak ciało ludzkie1.
+
+O rozwoju Ruby
+Począwszy od publicznego wydania w 1995, Ruby zwrócił na siebie uwagę wielu programistów na całym świecie. W 2006 Ruby uzyskał masową akceptację, co objawiło się w postaci dużej ilości aktywnych grup użytkowników powstających w największych miastach świata oraz salach konferencyjnych wypełnionych po brzegi.
+
+Graph courtesy of
+Gmane.
+Ruby-Talk, główna lista mailingowa na tematy związane z Rubim, osiągnęła średnio ruch 200 wiadomości dziennie w 2006 roku. Zmalało to w ostatnich latach gdy część społeczności przeniosło dyskusje z jednej centralnej listy na wiele mniejszych grup.
+
+Ruby jest uplasowany wśród pierwszej dziesiątki na większości indeksów mierzących wzrost i popularność języków programowania na świecie (takich jak indeks TIOBE). Wiele owego wzrostu zawdzięcza Ruby popularności oprogramowania napisanego przy jego użyciu, szczególnie frameworkowi Ruby on Rails.
+
+Ruby jest także zupełnie darmowy. Darmowe jest nie tylko korzystanie, ale również kopiowanie, modyfikowanie i rozprowadzanie tego języka.
+
+Postrzeganie Wszystkiego Jako Obiekt
+Początkowo, Matz szukał w innych językach idealnej składni. Wspominając swoje poszukiwania, Matz mówi: “Szukałem języka potężniejszego od Perla i bardziej obiektowego od Pythona2.”
+
+W Rubim, wszystko jest obiektem. Każdy fragment informacji i kodu może uzyskać swoje właściwości i czynności. Programowanie obiektowe nazywa właściwości zmiennymi instancji a czynności metodami. Czysto obiektowe podejście Rubiego jest zazwyczaj demonstrowane przy użyciu fragmentu kodu, który wywołuje czynność na liczbie.
+
+W wielu językach, liczby i inne typy podstawowe nie są obiektami. Ruby podąża za Smalltalkiem udostępniając metody i zmienne instancji wszystkim swoim typom. To ułatwia korzystanie z języka, ponieważ reguły mające zastosowanie do obiektów odnoszą się również do całego języka.
