@@ -1,5 +1,5 @@
 O języku Ruby:
-
+123
 Zastanawiasz się dlaczego Ruby jest tak popularny? Jego fani nazywają go pięknym, pełnym sztuki językiem. Mimo to, twierdzą, że jest poręczny i praktyczny. O co chodzi ?
 
 Ideały twórcy języka Ruby
